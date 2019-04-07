@@ -10,4 +10,4 @@ La classe MoleculeSet est la classe smart qui receptionne toute l'intelligence e
 
 Les classes Molecule et Atom sont des classes dummy. Elles remontent les informations via des callback à la classe MoleculeSet
 
-Visuellement, toutes les fonctions possibles du CRUD sont affichées sur la même page et gérés dans le même bloc et le même composant. 
+Visuellement, toutes les fonctions possibles du CRUD sont affichées sur la même page et gérés dans le même bloc et le même composant. d
